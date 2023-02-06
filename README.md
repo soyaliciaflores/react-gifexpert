@@ -9,3 +9,7 @@ La aplicación no borrará laa peticiones hechas anteriormente, sino que las ira
 Esta construida con React, Vite, Javascript y aunque el enfoque no esta centrado en el CSS, también se utiliza para dar algunos estilos.
 
 Sin duda, tiene la posibilidad de muchas mejoras, sin embargo, esta es la primera versión.
+
+Puedes navegar al sitio con el siguiente enlace.
+
+https://steady-quokka-6eda90.netlify.app/
